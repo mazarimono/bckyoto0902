@@ -19,3 +19,12 @@
 * 0.14.0からあとのバージョンだと2重送金を試みたトランザクション     
 を含むブロックを処理しようとした際に、クラッシュするバグがあった。           
 * mona、litecoinなんかにも同様のバグが・・ ==> 修正された    
+     
+---
+### 最近のニュース２
+* Bitcoin Coreにはどうも2100万枚の上限を超えてビットコインが
+発行できるバグがあるとの噂も・・・   
+https://www.coindesk.com/the-latest-bitcoin-bug-was-so-bad-developers-kept-its-full-details-a-secret/    
+* NEMを使ったチケット発券アプリの作成    
+* https://yu-kimura.jp/2018/09/20/ticket-p2p/    
+* 
