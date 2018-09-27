@@ -53,7 +53,7 @@ https://www.coindesk.com/the-latest-bitcoin-bug-was-so-bad-developers-kept-its-f
 ---     
 
 
-###　ブロックチェーンのメリット
+### ブロックチェーンのメリット
 * 障害に強い(P2Pの強み)     
 * データの改ざんが難しい    
 * 中間業者を省いて低コストに     
