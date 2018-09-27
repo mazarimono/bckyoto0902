@@ -67,7 +67,8 @@ https://www.coindesk.com/the-latest-bitcoin-bug-was-so-bad-developers-kept-its-f
 * 秘匿性     
 * スケーラビリティ     
 * 進化のガバナンス==> 全員の意見の一致は難しい（BCH)    
-* インセンティブ（マイニング報酬）    
+* インセンティブ（価格の下落など）   
+===> POWの問題点ともいえるような・・         
        
 ---      
 
