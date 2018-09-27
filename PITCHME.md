@@ -28,7 +28,7 @@
 発行できるバグがあったとの噂も・・・　＝＞　コアのブログで修正報告        
 https://www.coindesk.com/the-latest-bitcoin-bug-was-so-bad-developers-kept-its-full-details-a-secret/    
 * https://bitcoincore.org/en/2018/09/20/notice/        
-* テストネットで増殖バグが実行された。     
+* テストネットで増殖バグが実行された。まだ3割しかバージョンアップしていない・・・          
 * https://btcnews.jp/22mf05sr19667/      
 * NEMを使ったチケット発券アプリの作成    
 * https://yu-kimura.jp/2018/09/20/ticket-p2p/     
@@ -49,6 +49,29 @@ https://www.coindesk.com/the-latest-bitcoin-bug-was-so-bad-developers-kept-its-f
 * SatoshiのPaperは、（ビットコインのみを使った）二重支払いの防止とPaymentの範囲であれば、Without Trusted Third Partyでもうまく回る、という世界の境界線を主張。     
 * しかし、そこから一歩足を踏み出したところの話はしていない。      
 * 寄付による実験ではなく、ビジネスとして1円でも扱うようなシステムを作りたいのであれば、境界線をはみ出た部分についての注意深い検証が不可欠     
+* 面白いと思ったのは、ウェブでは作って失敗しなが発展させろって感じだが、ブロックチェーンはウェブにお金を載せる話なので、失敗には慎重にならないといけないという話。     
+      
 ---
 
+###　ブロックチェーンのメリット
+* 障害に強い(P2Pの強み)     
+* データの改ざんが難しい    
+* 中間業者を省いて低コストに     
+* データの分散（GDPRなど)     
 
+---
+
+### ブロックチェーンの課題
+* ブロック生成時間が不安定     
+* 秘匿性     
+* スケーラビリティ     
+* 進化のガバナンス==> 全員の意見の一致は難しい（BCH)    
+* インセンティブ（マイニング報酬）    
+     
+---
+
+参考資料
+* すぐわかるブロックチェーンの種類とメリット     
+https://bizgate.nikkei.co.jp/article/DGXMZO2843770022032018000000   
+* ブロックチェーンの課題と可能性    
+https://gihyo.jp/dev/serial/01/bbc1    
