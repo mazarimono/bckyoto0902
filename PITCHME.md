@@ -77,3 +77,5 @@ https://www.coindesk.com/the-latest-bitcoin-bug-was-so-bad-developers-kept-its-f
 https://bizgate.nikkei.co.jp/article/DGXMZO2843770022032018000000   
 * ブロックチェーンの課題と可能性    
 https://gihyo.jp/dev/serial/01/bbc1    
+* wikipedia 一般データ保護規則    
+https://bit.ly/2CMlCIS    
